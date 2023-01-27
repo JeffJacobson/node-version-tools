@@ -1,0 +1,1 @@
+Retrieves Node release schedule information from their [schedule.json](https://raw.githubusercontent.com/nodejs/Release/main/schedule.json).
